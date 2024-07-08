@@ -1,1 +1,1 @@
-# lib.pro
+library management system
